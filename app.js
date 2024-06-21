@@ -1,4 +1,4 @@
-const Key = 'GOOGLE_API_KEY'; // replace with the API key you got from the website
+const Key = 'GOOGLE_API_KEY'; // replace with the API key you got from the website & DO NOT SHARE WITH ANYONE
 const username = 'USERNAME'; // replace with the string when you go to your youtube channel
 const subCount = document.getElementById('subCount');
 var alarm = new Audio("alert.mp3")
