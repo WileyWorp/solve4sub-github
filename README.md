@@ -1,6 +1,5 @@
 # Solve4Sub
 Originally built for Wiley Worp to force him to solve a rubik's cube every time he gains subscribers. Now this code is open to anyone to use.
-![Rubik's cube-like logo for solve4sub](/logo.svg)
 # Requirements
   you'll want an account and project on the [Google Developer Website](console.cloud.google.com).
   It's important that you make a project and find the **Youtube Data API v3** in **APIs & Services** on that page.
@@ -18,3 +17,5 @@ const username = 'USERNAME'; // replace with the string when you go to your yout
 
 > [!CAUTION]
 > If you share your API Key you put your project at risk of not working anymore. Google will allow you 10,000 requests to the API per day and you can quickly reach that limit if you make your website public.
+
+![Rubik's cube-like logo for solve4sub](/logo.svg)
