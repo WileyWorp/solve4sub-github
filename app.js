@@ -19,7 +19,7 @@ let getCount = () => {
                 document.getElementById("solveScreen").style.display = "block";
                 alarm.play();
             }
-            oldCount < newCount;
+            oldCount = newCount;
         })
 }
 
